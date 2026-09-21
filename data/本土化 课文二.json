@@ -1,0 +1,48 @@
+{
+  "id": "lesson2",
+  "title": "洋品牌的中国本土化之路（二）",
+  "title_audio": "audio/lesson2-title.mp3",
+  "paragraphs": [
+    {
+      "html": "<span class=\"vocab\">本土化<span class=\"tooltip\">běn tǔ huà — localization</span></span>经营的第二个要诀是<span class=\"vocab\">人力资源<span class=\"tooltip\">rén lì zī yuán — human resources</span></span>的本土化。人才的本土化被视为跨国公司最根本的本土化经营<span class=\"vocab\">措施<span class=\"tooltip\">cuò shī — measures</span></span>。在华<span class=\"vocab\">开拓<span class=\"tooltip\">kāi tuò — open up</span></span>市场的过程中，跨国公司纷纷<span class=\"vocab\">争抢<span class=\"tooltip\">zhēng qiǎng — scramble for, fight for</span></span>国内人才，<span class=\"vocab\">重金<span class=\"tooltip\">zhòng jīn — with a huge amount of money</span></span><span class=\"vocab\">聘请<span class=\"tooltip\">pìn qǐng — to hire</span></span>中国<span class=\"vocab\">高管<span class=\"tooltip\">gāo guǎn — Senior executive</span></span>。事实证明，如果人才不本土化，则<span class=\"vocab\">难以<span class=\"tooltip\">nán yǐ — Difficult to</span></span>彻底理解中国市场，容易造成策略<span class=\"vocab\">失误<span class=\"tooltip\">shī wù — error or mistakes resulting from carelessness or incompetence</span></span>。阿尔卡特（Alcatel）中国公司董事长戴伯松曾说过：“在中国的外方<span class=\"vocab\">雇员<span class=\"tooltip\">gù yuán — employee</span></span>都有一项<span class=\"vocab\">使命<span class=\"tooltip\">shǐ mìng — mission</span></span>，就是要培训出最能取代他们的中方雇员。我们一旦发现中方雇员能够<span class=\"vocab\">胜任<span class=\"tooltip\">shèng rèn — to qualify</span></span>工作，就让外方雇员离开。”",
+      "audio": "audio/lesson2-1.mp3",
+      "image": { "src": "img/lesson2-p1.png" }
+    },
+    {
+      "html": "本土化第三个要诀是产品<span class=\"vocab\">研发<span class=\"tooltip\">yán fā — research and development</span></span>制造本土化。许多跨国公司十分<span class=\"vocab\">注重<span class=\"tooltip\">zhù zhòng — lay emphasis on, pay attention to</span></span>产品研发与制造的本土化，使产品更<span class=\"vocab\">贴近<span class=\"tooltip\">tiē jìn — to be close to</span></span>中国消费者的实际需求。和大多数跨国公司一样，西门子（Siemens）<span class=\"vocab\">医疗<span class=\"tooltip\">yī liáo — healthcare</span></span>刚进入中国的时候，大部分销售额<span class=\"vocab\">源自于<span class=\"tooltip\">yuán zì yú — be derived from</span></span>一线城市，但当西门子发现中国三四线市场具有更强的消费潜力后，他们增加了研发力量，推出了 SMART 概念产品。所谓 SMART，即 Simple（简单易用）、Maintenance-friendly（<span class=\"vocab\">维护<span class=\"tooltip\">wéi hù — to maintain</span></span>方便）、Affordable（价格适当）、Reliable（<span class=\"vocab\">可靠<span class=\"tooltip\">kě kào — reliable</span></span><span class=\"vocab\">耐用<span class=\"tooltip\">nài yòng — durable</span></span>）、Timely-to-market（<span class=\"vocab\">及时<span class=\"tooltip\">jí shí — timely</span></span><span class=\"vocab\">上市<span class=\"tooltip\">shàng shì — to be on the market</span></span>）。2007年，西门子第一台<span class=\"vocab\">符合<span class=\"tooltip\">fú hé — to accord with</span></span>“SMART”理念的CT机Spirit<span class=\"vocab\">问世<span class=\"tooltip\">wèn shì — to advent</span></span>，<span class=\"vocab\">售价<span class=\"tooltip\">shòu jià — price</span></span>是200万，不到<span class=\"vocab\">高端<span class=\"tooltip\">gāo duān — high-end</span></span>CT机的一个<span class=\"vocab\">零头<span class=\"tooltip\">líng tóu — fractional amount</span></span>。按照这个售价，每个病人接受CT<span class=\"vocab\">检查<span class=\"tooltip\">jiǎn chá — to inspect</span></span>的费用只需要170块人民币左右。Spirit之所以有这么高的性价比，是因为研发团队根据中国现有的工业零件基础，设计研发了这款机型，80%的零件是在中国采购的，这就极大地降低了成本。在西门子中国的构想中，通过满足各级医疗机构的不同需求，中国将成为西门子医疗销售的第三大市场。",
+      "audio": "audio/lesson2-2.mp3",
+      "image": { "src": "img/lesson2-p2.png" }
+    }
+  ],
+  "vocab": [
+    { "hz": "本土化", "py": "běn tǔ huà", "en": "localization" },
+    { "hz": "人力资源", "py": "rén lì zī yuán", "en": "human resources" },
+    { "hz": "措施", "py": "cuò shī", "en": "measures" },
+    { "hz": "开拓", "py": "kāi tuò", "en": "open up" },
+    { "hz": "争抢", "py": "zhēng qiǎng", "en": "scramble for, fight for" },
+    { "hz": "重金", "py": "zhòng jīn", "en": "with a huge amount of money" },
+    { "hz": "聘请", "py": "pìn qǐng", "en": "to hire" },
+    { "hz": "高管", "py": "gāo guǎn", "en": "Senior executive" },
+    { "hz": "难以", "py": "nán yǐ", "en": "Difficult to" },
+    { "hz": "失误", "py": "shī wù", "en": "error or mistakes resulting from carelessness or incompetence" },
+    { "hz": "雇员", "py": "gù yuán", "en": "employee" },
+    { "hz": "使命", "py": "shǐ mìng", "en": "mission" },
+    { "hz": "胜任", "py": "shèng rèn", "en": "to qualify" },
+    { "hz": "研发", "py": "yán fā", "en": "research and development" },
+    { "hz": "注重", "py": "zhù zhòng", "en": "lay emphasis on, pay attention to" },
+    { "hz": "贴近", "py": "tiē jìn", "en": "to be close to" },
+    { "hz": "医疗", "py": "yī liáo", "en": "healthcare" },
+    { "hz": "源自于", "py": "yuán zì yú", "en": "be derived from" },
+    { "hz": "维护", "py": "wéi hù", "en": "to maintain" },
+    { "hz": "可靠", "py": "kě kào", "en": "reliable" },
+    { "hz": "耐用", "py": "nài yòng", "en": "durable" },
+    { "hz": "及时", "py": "jí shí", "en": "timely" },
+    { "hz": "上市", "py": "shàng shì", "en": "to be on the market" },
+    { "hz": "符合", "py": "fú hé", "en": "to accord with" },
+    { "hz": "问世", "py": "wèn shì", "en": "to advent" },
+    { "hz": "高端", "py": "gāo duān", "en": "high-end" },
+    { "hz": "零头", "py": "líng tóu", "en": "fractional amount" },
+    { "hz": "售价", "py": "shòu jià", "en": "price" },
+    { "hz": "检查", "py": "jiǎn chá", "en": "to inspect" }
+  ]
+}

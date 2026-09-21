@@ -1,0 +1,40 @@
+{
+  "id": "lesson3",
+  "title": "洋品牌的中国本土化之路（三）",
+  "title_audio": "audio/lesson3-title.mp3",
+  "paragraphs": [
+    {
+      "html": "本土化第四点要诀，也是让跨国公司<span class=\"vocab\">执行<span class=\"tooltip\">zhí xíng — to implement</span></span>本土化战略最彻底的，是营销渠道的本土化。企业进行跨国经营最大的困扰是没有自己的产品营销渠道。外国企业要在中国市场参与竞争，就必须了解中国消费文化，<span class=\"vocab\">打通<span class=\"tooltip\">dǎ tǒng — penetrate</span></span>本地的营销渠道。2019年4月，可口可乐与苏宁快消集团<span class=\"vocab\">签订<span class=\"tooltip\">qiān dìng — to sign (contract or agreement)</span></span>了全面战略合作<span class=\"vocab\">协议<span class=\"tooltip\">xié yì — agreement</span></span>，线上线下<span class=\"vocab\">双管齐下<span class=\"tooltip\">shuāng guǎn qí xià — to resort to dual measures simultaneously</span></span>，共同实现更高的销售增长。可口可乐在苏宁平台上建立品牌官方<span class=\"vocab\">旗舰<span class=\"tooltip\">qí jiàn — flagship</span></span>店，推广可口可乐产品。同时，双方将围绕苏宁的主要线下渠道之一苏宁小店<span class=\"vocab\">展开<span class=\"tooltip\">zhǎn kāi — to open</span></span>合作。随着苏宁小店的发展，可口可乐的产品也会不断<span class=\"vocab\">深入<span class=\"tooltip\">shēn rù — to penetrate into</span></span>CBD、居民<span class=\"vocab\">社区<span class=\"tooltip\">shè qū — community</span></span>、地铁站等<span class=\"vocab\">人流<span class=\"tooltip\">rén liú — pedestrian flow</span></span><span class=\"vocab\">密集<span class=\"tooltip\">mì jí — concentrated</span></span>的场所。",
+      "audio": "audio/lesson3-1.mp3",
+      "image": { "src": "img/lesson3-p1.png" }
+    },
+    {
+      "html": "改革开放初期，国内大片市场<span class=\"vocab\">尚未<span class=\"tooltip\">shàng wèi — not yet</span></span>开发，中国政府以避免各种<span class=\"vocab\">税收<span class=\"tooltip\">shuì shōu — tax revenue</span></span>的超国民身份<span class=\"vocab\">待遇<span class=\"tooltip\">dài yù — treatment</span></span>，吸引跨国公司来华投资。三十年之后，已成为世界第二大经济体的中国开始用平等、<span class=\"vocab\">挑剔<span class=\"tooltip\">tiāo tì — picky, fastidious</span></span>，甚至是有些<span class=\"vocab\">傲慢<span class=\"tooltip\">ào màn — arrogant</span></span>的目光<span class=\"vocab\">打量<span class=\"tooltip\">dǎ liang — to look at sb. up and down</span></span>跨国公司。2010年，中国政府宣布中国境内所有内外资企业统一全部税制，这<span class=\"vocab\">意味着<span class=\"tooltip\">yì wèi zhe — to mean</span></span>外资企业享受“超国民待遇”时代正式<span class=\"vocab\">终结<span class=\"tooltip\">zhōng jié — to end</span></span>。与此同时，中国的本土企业也变得更成熟，更凶猛。然而，没有人想<span class=\"vocab\">放弃<span class=\"tooltip\">fàng qì — to give up</span></span>中国，因为过去十年，这里仍是发展最快、变化最迅速的市场。事实证明，无论多么“高大上”的国际跨国公司，要想<span class=\"vocab\">立足<span class=\"tooltip\">lì zú — to have a foothold somewhere</span></span>中国，都要以更加中国化的方式加入与本土企业的竞争，因为他们知道这里仍然是赢得未来二十年发展的关键。",
+      "audio": "audio/lesson3-2.mp3",
+      "image": { "src": "img/lesson3-p2.png" }
+    }
+  ],
+  "vocab": [
+    { "hz": "执行", "py": "zhí xíng", "en": "to implement" },
+    { "hz": "打通", "py": "dǎ tǒng", "en": "penetrate" },
+    { "hz": "签订", "py": "qiān dìng", "en": "to sign (contract or agreement)" },
+    { "hz": "协议", "py": "xié yì", "en": "agreement" },
+    { "hz": "双管齐下", "py": "shuāng guǎn qí xià", "en": "to resort to dual measures simultaneously" },
+    { "hz": "旗舰", "py": "qí jiàn", "en": "flagship" },
+    { "hz": "展开", "py": "zhǎn kāi", "en": "to open" },
+    { "hz": "深入", "py": "shēn rù", "en": "to penetrate into" },
+    { "hz": "社区", "py": "shè qū", "en": "community" },
+    { "hz": "人流", "py": "rén liú", "en": "pedestrian flow" },
+    { "hz": "密集", "py": "mì jí", "en": "concentrated" },
+    { "hz": "尚未", "py": "shàng wèi", "en": "not yet" },
+    { "hz": "税收", "py": "shuì shōu", "en": "tax revenue" },
+    { "hz": "待遇", "py": "dài yù", "en": "treatment" },
+    { "hz": "挑剔", "py": "tiāo tì", "en": "picky, fastidious" },
+    { "hz": "傲慢", "py": "ào màn", "en": "arrogant" },
+    { "hz": "打量", "py": "dǎ liang", "en": "to look at sb. up and down" },
+    { "hz": "意味着", "py": "yì wèi zhe", "en": "to mean" },
+    { "hz": "终结", "py": "zhōng jié", "en": "to end" },
+    { "hz": "放弃", "py": "fàng qì", "en": "to give up" },
+    { "hz": "立足", "py": "lì zú", "en": "to have a foothold somewhere" }
+  ]
+}
